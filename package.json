@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/mmukhin/psitsmike_example_1/issues"
   },
-  "homepage": "https://github.com/mmukhin/psitsmike_example_1"
+  "homepage": "https://github.com/mmukhin/psitsmike_example_1",
+  "engines": {
+    "node >= 0.9.x"
+  }
 }
