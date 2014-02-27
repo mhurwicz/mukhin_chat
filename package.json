@@ -2,6 +2,7 @@
   "name": "mukhin_chat",
   "description": "example chat application with socket.io",
   "version": "0.0.1",
+  "engines": "node >= 0.9.x",
   "dependencies": {
     "express": "^3.4.8",
     "socket.io": "^0.9.16"
@@ -19,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/mmukhin/psitsmike_example_1/issues"
   },
-  "homepage": "https://github.com/mmukhin/psitsmike_example_1",
-  "engines": {
-    "node >= 0.9.x"
-  }
+  "homepage": "https://github.com/mmukhin/psitsmike_example_1"
 }
