@@ -1,9 +1,23 @@
 {
-     "name": "mukhin_chat",
-     "description": "example chat application with socket.io",
-     "version": "0.0.1",
-     "dependencies": {
-        "express": "",
-        "socket.io": ""
-     }
+  "name": "mukhin_chat",
+  "description": "example chat application with socket.io",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^3.4.8",
+    "socket.io": "^0.9.16"
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmukhin/psitsmike_example_1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmukhin/psitsmike_example_1/issues"
+  },
+  "homepage": "https://github.com/mmukhin/psitsmike_example_1"
 }
