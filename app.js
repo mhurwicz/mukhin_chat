@@ -5,6 +5,7 @@ var express = require('express')
   , io = require('socket.io').listen(server);
 
 // server.listen(8080);
+server.listen(process.env.PORT || 8080)
 
 // routing
 app.get('/', function (req, res) {
